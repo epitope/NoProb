@@ -1,0 +1,12 @@
+K1 = 0.242206235734
+N0 = 443.952964516
+N1 = -272.604916715
+N2 = -278.999198409
+c3 = 1000.0
+dt_max = 5180
+dt_min = 3393
+graph_left_cutoff = 0.0
+graph_right_cutoff = 20000.0
+optimization_left_cutoff = 1
+optimization_right_cutoff = 14824
+r = 0.1
