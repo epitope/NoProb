@@ -3,7 +3,7 @@
 
 1. Download and keep all .cvs and .py files in a same folder.
 
-  - data.cvs = raw data, frequency overtone versus time. 
+  - data.cvs = example raw data, frequency overtone versus time (replace data in this file with your QCM-D data). 
 
   - NoProb_parameters.csv = initial fitting and optimization limits.
 
