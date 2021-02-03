@@ -9,9 +9,10 @@
 
 2. Run **NoProb.py** in Python. Confirm the initial parameters by typing "y".
 
-3. When the program finishes running, it will display the optimized parameters and a graph (graph.png) showing the raw data, the inital curve and the optimized curve, together with error in the inital model and error in the optimized model. 
-
-    It will creates two output files: fitted_NoProb_parameters.csv and dtVsLoss.csv. 
+3. When the program finishes running:
+  - It will display the optimized parameters and a graph (graph.png) showing the raw data, the inital curve and the optimized curve, together with error in the initial model and error in the optimized model. 
+  
+  - It will creates two output files: fitted_NoProb_parameters.csv and dtVsLoss.csv. 
 
 **Note:**
 #### Run in an Python environment with the following required libraries:
