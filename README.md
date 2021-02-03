@@ -13,5 +13,26 @@
 
     It will creates two output files: fitted_NoProb_parameters.csv and dtVsLoss.csv. 
 
+**Note:**
+#### Run in an Python environment with the following required libraries:
+
+*from* __future__ *import* **print_function**
+
+*from* **matplotlib** *import* **pyplot** *as* **plt**
+
+*import* **csv**
+
+*import* **math**
+
+*import* **numpy** *as* **np**
+
+*import* **random**
+
+*import* **sys**
+
+*import* **scipy.optimize**
+
+*import* **warnings**
+
 
 *We'd like thank Daniel Kats for the help with the script.*
