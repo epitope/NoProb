@@ -7,15 +7,15 @@
 
   - NoProb_parameters.csv = initial fitting and optimization limits.
 
-2. Run **NoProb.py** in Python. Confirm the initial parameters by typing "y".
+2. Run **NoProb.py** in **Python2** (e.g. **Python2.7**). Confirm the initial parameters by typing "y" when being asked.
 
-3. When the program finishes running:
+3. It would take a few seconds to run, when the program finishes running:
   - It will display the optimized parameters and a graph (graph.png) showing the raw data, the inital curve and the optimized curve, together with error in the initial model and error in the optimized model. 
   
   - It will creates two output files: fitted_NoProb_parameters.csv and dtVsLoss.csv. 
 
 **Note:**
-#### Run in an Python environment with the following required libraries:
+#### Run in an Python2 environment with the following required libraries:
 
 *from* __future__ *import* **print_function**
 
