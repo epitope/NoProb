@@ -16,7 +16,7 @@
   <img src="https://github.com/epitope/NoProb/blob/main/Graph.png" width="500" title="Example of a fitting curve">
 </p>
   
-  - It will creates two output files: fitted_NoProb_parameters.csv and dtVsLoss.csv. 
+  - It will also create two output files: fitted_NoProb_parameters.csv and dtVsLoss.csv. 
 
 **Note:**
 #### Run in an Python2 environment with the following required libraries:
