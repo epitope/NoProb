@@ -1,4 +1,4 @@
-# NoProb (<ins>No</ins>n-<ins>pro</ins>ductive <ins>b</ins>inding fit)
+## NoProb (<ins>No</ins>n-<ins>pro</ins>ductive <ins>b</ins>inding fit)
 **NoProb** is used to fit **raw QCM-D data** for kinetic parameters. This directory contains example files (.cvs, .png files) as well as the script.
 
 1. Download and keep all .cvs and .py files in a same folder.
@@ -19,7 +19,7 @@
   - It will also create two output files: fitted_NoProb_parameters.csv and dtVsLoss.csv. 
 
 **Note:**
-#### Run in an Python2 environment with the following required libraries:
+### Run in an Python2 environment with the following required libraries:
 
 *from* __future__ *import* **print_function**
 
