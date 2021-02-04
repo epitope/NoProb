@@ -11,6 +11,10 @@
 
 3. It would take a few seconds to run, when the program finishes running:
   - It will display the optimized parameters and a graph (graph.png) showing the raw data, the inital curve and the optimized curve, together with error in the initial model and error in the optimized model. 
+ 
+<p align="center">
+  <img src="https://github.com/epitope/NoProb/blob/main/Graph.png" width="500" title="Example of a fitting curve">
+</p>
   
   - It will creates two output files: fitted_NoProb_parameters.csv and dtVsLoss.csv. 
 
